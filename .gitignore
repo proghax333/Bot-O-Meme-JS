@@ -1,0 +1,12 @@
+# Node modules folder
+node_modules
+
+# Build directory
+dist
+
+# Lockfiles
+package-lock.json
+pnpm-lock.yaml
+
+# environment
+.env
